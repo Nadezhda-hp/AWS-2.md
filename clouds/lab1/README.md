@@ -26,7 +26,7 @@
 ##Ход работы:
 
 Изначально у нас есть слепок данных биллинга
-![исходные](https://github.com/user-attachments/assets/d37a6448-a508-490c-acef-66d895ff315b)
+![исходные](https://github.com/Nadezhda-hp/AWS-2.md/blob/main/clouds/lab1/2025-01-27%2019.58.00.jpg)
 
 Получилась такая таблица:
 ![](https://github.com/Nadezhda-hp/AWS-2.md/blob/main/clouds/lab1/2025-01-27%2019.51.27.jpg)
