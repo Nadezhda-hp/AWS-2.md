@@ -16,7 +16,7 @@
 Сохранить файл и залить в соответствующую папку на Google Drive.
 
 Алгоритм работы:
-![https://github.com/Nadezhda-hp/AWS-2.md/blob/main/F0C53671-F7A0-4E2F-BD49-4C64177F0BC3_1_201_a.jpeg)
+![](https://github.com/Nadezhda-hp/AWS-2.md/blob/main/F0C53671-F7A0-4E2F-BD49-4C64177F0BC3_1_201_a.jpeg)
 
 И что получили в итоге:
 ![](https://github.com/Nadezhda-hp/AWS-2.md/blob/main/clouds/195C9D8E-EA7F-4B69-9500-84C1A78DEE43_1_201_a.jpeg)
